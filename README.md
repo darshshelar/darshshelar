@@ -1,4 +1,4 @@
-# Birthday-VB
+# Birthday-KP
 
 
-https://birthday-vb.vercel.app/
+https://birthday-kp.vercel.app/
